@@ -1,0 +1,37 @@
+.img-100alto {
+	height: 100%;
+}
+
+.mastermind {
+	background-color: #fd0c49;
+	color: white;
+}
+
+.mastermind80 {
+	background-color: #fd0c49;
+	color: white;
+	opacity: 0.8;
+}
+
+.mastermindgray80 {
+	background-color: gray;
+	color: white;
+	opacity: 0.8;
+}
+.mastermindgray60 {
+	background-color: gray;
+	color: white;
+	opacity: 0.6;
+}
+
+.mastermind60 {
+	background-color: #fd0c49;
+	color: gray;
+	opacity: 0.6;
+}
+
+.mastermind40 {
+	background-color: #fd0c49;
+	color: black;
+	opacity: 0.4;
+}
